@@ -1,4 +1,6 @@
+#this is from both
+
 a=3
 b=2
 c=a-b
-p "#{a} - #{b}=#{c}"
+p "#{a} - #{b} =#{c}"
